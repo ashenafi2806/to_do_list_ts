@@ -81,3 +81,13 @@ Click edit next to a task to modify it.
 Click remove to delete a task.
 
 The task list updates dynamically.
+✅adding task 
+<img width="958" height="375" alt="adding_task" src="https://github.com/user-attachments/assets/51f7f8fb-1c18-44af-9e04-51e80ac77de8" />
+✅editing task
+<img width="944" height="388" alt="editing_task " src="https://github.com/user-attachments/assets/c574a9cf-ec80-4403-ad6c-56a4ae4915cd" />
+✅deleting task
+
+<img width="940" height="335" alt="deleting_task" src="https://github.com/user-attachments/assets/6f85a1b3-c3a3-475d-816c-52cd7c83b823" />
+
+
+
